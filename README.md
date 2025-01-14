@@ -303,7 +303,7 @@ nios2-download -g -r <my_prog.elf>   // ou make download-elf
 
 https://zhengyuwang123.github.io/ESN10_VIDEO/
 
-
+https://github.com/ESN2025/Wang_LAB1/docs/3f9218ec33a9a3067f976b5ee0b77710.mp4
 
 
 
