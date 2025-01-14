@@ -310,7 +310,7 @@ nios2-download -g -r <my_prog.elf>   // ou make download-elf
 
 
 
-## Conclusion (version simplifiée en français)
+## Conclusion
 
 1. **Ce que nous avons appris**
    - Comment configurer un processeur Nios II dans *Platform Designer (QSYS)* en ajoutant des périphériques (PIO, JTAG UART, mémoire interne) et en attribuant leurs adresses.
