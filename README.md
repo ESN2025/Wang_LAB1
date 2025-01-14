@@ -1,4 +1,4 @@
-# Lab 1 : « Que la lumière soit » – Implémenter un « LED chaser »
+# Lab 1 : Let there be light” - Implement a led chaser 
 
 ------
 
