@@ -301,7 +301,7 @@ nios2-download -g -r <my_prog.elf>   // ou make download-elf
 
 ------
 
-[click here to access the video](https://zhengyuwang123.github.io/ESN10_VIDEO/)
+https://zhengyuwang123.github.io/ESN10_VIDEO/
 
 
 
