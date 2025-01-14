@@ -1,7 +1,7 @@
 # Lab 1 : Let there be light” - Implement a led chaser 
 
 ------
-
+https://github.com/user-attachments/assets/899fbbc2-3063-409e-8351-0ce1b3a1cd34
 ## 1. Créer un système Nios II basique
 
 ### 1. Créer un nouveau projet Quartus
